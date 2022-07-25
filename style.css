@@ -152,10 +152,10 @@ body {
     margin-top: -21px;
     margin-left: -20px;
     overflow: hidden;
-    
+
 }
 
-.choose-options select{
+.choose-options select {
     display: block;
     margin: auto;
     border: 1px solid lightgray;
@@ -163,7 +163,7 @@ body {
     color: gray;
 }
 
-.choose-options button{
+.choose-options button {
     margin-top: 10px;
     border: none;
     border-radius: 20px;
@@ -172,7 +172,8 @@ body {
     text-transform: uppercase;
 }
 
-.choose-options select, .choose-options button{
+.choose-options select,
+.choose-options button {
     width: 180px;
     height: 32px;
     padding: 8px;
